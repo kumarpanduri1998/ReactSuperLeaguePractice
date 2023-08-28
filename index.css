@@ -1,0 +1,18 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #f8fafc;
+}
+
+.image {
+  height: 200px;
+  width: 150px;
+}
